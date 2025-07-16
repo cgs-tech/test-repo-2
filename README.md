@@ -1,8 +1,5 @@
-# test-repo
+# test-repo-2
 test app
 
 ***************************
 Test commit 1
-
-***************************
-Test commit 2
