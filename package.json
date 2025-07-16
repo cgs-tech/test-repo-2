@@ -1,0 +1,16 @@
+{
+  "name": "test-repo",
+  "version": "1.0.0",
+  "description": "test app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "minimist": "^1.2.0",
+    "set-value": "^0.4.0"
+  }
+}
