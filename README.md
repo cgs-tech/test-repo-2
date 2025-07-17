@@ -1,6 +1,7 @@
 # test-repo-2
 test app
 test
-QA
+QA-branch
+ main
 ***************************
 Test commit 1
