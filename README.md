@@ -4,5 +4,6 @@ test
 QA-branch
  main
  smoke test
+ test
 ***************************
 Test commit 1
