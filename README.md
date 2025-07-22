@@ -7,5 +7,6 @@ QA-branch
  test
  regression testing
  test
+ qa
 ***************************
 Test commit 1
