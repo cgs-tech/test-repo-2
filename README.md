@@ -6,5 +6,6 @@ QA-branch
  smoke test
  test
  regression testing
+ test
 ***************************
 Test commit 1
