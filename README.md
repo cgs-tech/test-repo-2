@@ -8,5 +8,6 @@ QA-branch
  regression testing
  test
  qa
+ UI
 ***************************
 Test commit 1
