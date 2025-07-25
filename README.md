@@ -9,5 +9,6 @@ QA-branch
  test
  qa
  UI
+ test
 ***************************
 Test commit 1
