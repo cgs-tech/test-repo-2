@@ -5,5 +5,6 @@ QA-branch
  main
  smoke test
  test@123
+ Regression
 ***************************
 Test commit 1
