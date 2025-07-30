@@ -6,5 +6,6 @@ QA-branch
  smoke test
  test@123
  Regression
+test@1234
 ***************************
 Test commit 1
