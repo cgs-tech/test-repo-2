@@ -6,6 +6,7 @@ QA-branch
  smoke test
  test@123
  new branch creation
+ test
 ***************************
 Test commit 1
 test
