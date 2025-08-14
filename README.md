@@ -8,3 +8,4 @@ QA-branch
  new branch creation
 ***************************
 Test commit 1
+Test commit 2
